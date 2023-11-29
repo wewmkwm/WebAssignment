@@ -1,0 +1,9 @@
+/* Add your styling for the logout page here */
+body {
+    background: #EAF1FF;
+}
+
+.container {
+    text-align: center;
+    padding-top: 50px;
+}
